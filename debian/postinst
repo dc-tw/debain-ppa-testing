@@ -1,2 +1,2 @@
 #!/bin/bash
-../testing.sh
+echo "this is a test from David Chang"
